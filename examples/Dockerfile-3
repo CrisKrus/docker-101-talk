@@ -1,0 +1,11 @@
+FROM node
+
+WORKDIR /app
+
+RUN npm install --save-dev somethig@^2.0.4 \
+    && npm install --save-dev my-dev-dependency@^1.1.5 \
+    && npm install --save-dev whatever@^1.8.0
+
+COPY ./src /app/src
+
+CMD node index.js
