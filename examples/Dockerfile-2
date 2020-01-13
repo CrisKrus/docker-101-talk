@@ -8,4 +8,6 @@ RUN npm install
 
 COPY ./src /app/src
 
-CMD node index.js
+EXPOSE 8080
+
+CMD node ./src/index.js
