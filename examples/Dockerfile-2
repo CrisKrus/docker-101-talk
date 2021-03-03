@@ -1,13 +1,17 @@
 FROM node:alpine
 
+# copiamos primero el fichero de dependencias
 COPY package.json /app/package.json
 
 WORKDIR /app
 
+# instalamos las dependencias
 RUN npm install
 
+# copiamos el resto del proyecto
 COPY ./src /app/src
 
 EXPOSE 8080
 
+# arrancamos la aplicación
 CMD node ./src/index.js

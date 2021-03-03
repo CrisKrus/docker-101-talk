@@ -2,6 +2,9 @@ FROM node:alpine
 
 WORKDIR /app
 
+# ignoramos el archivo de dependencias y las instalamos desde el Dockerfile
+# esta práctica me gusta menos porque estamos dejando el seguimiento de versiones
+# y dependencias en un fichero no pensado para esto
 RUN npm install express@4.17.1 \
     mongoose@5.8.5 \
     moment@2.24.0 \
