@@ -3,7 +3,7 @@ Docker Formation
 
 Hola si estás aquí es porque estás interesado en la formación sobre Docker que
 he impartido. En este repositorio están todos los recursos que he usado para
-ello además de los ejemplos que he puesto en las diapositivas.
+ello, incluidos los ejemplos que he puesto en las diapositivas.
 
 Además de esto en [mi blog][blog] puedes consultar las notas que he redactado
 para esta sesión.
@@ -17,8 +17,8 @@ Si quieres ver las diapositivas online puedes entrar en [este enlace][diapositiv
 Dudas
 -------------------------------------------------------------------------------
 
-Si tienes dudas sobre este tema no dudes en contactar por mis redes sociales o
-abrir un issue en este mismo repositorio, lo que te sea más cómodo!
+¡Si tienes alguna pregunta sobre este tema no dudes en contactar por mis redes 
+sociales o abrir un issue en este mismo repositorio, lo que te sea más cómodo!
 
 - Instagram 📷 http://bit.ly/cristian-suarez-instagram
 - Blog http://bit.ly/cristian-suarez-blog
