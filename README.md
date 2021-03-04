@@ -34,4 +34,4 @@ Construir imagen
 Arrancar la imagen
 -------------------------------------------------------------------------------
 
-`docker run -P --rm --name fake-api criskrus/fake-api:1`
+`docker run -p 8080:8080 --rm --name fake-api criskrus/fake-api:1`

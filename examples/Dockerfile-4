@@ -7,6 +7,8 @@ COPY ./package.json ./package.json
 
 RUN npm install
 
+COPY ./src /app/src
+
 # construimos nuestra app
 RUN npm run build
 
@@ -18,6 +20,7 @@ WORKDIR /app
 # copiamos los ficheros que necesitamos para arrancar la aplicación desde
 # el contenedor donde hemos construido la app builder
 COPY --from=builder /app/build/index.js ./index.js
+COPY --from=builder /app/node_modules ./node_modules/
 
 EXPOSE 8080
 

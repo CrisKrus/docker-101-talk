@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"The app has been builded\""
+    "build": "mkdir build; cp src/index.js build/index.js"
   },
   "license": "ISC",
   "dependencies": {
