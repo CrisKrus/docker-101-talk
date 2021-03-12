@@ -29,6 +29,8 @@ sociales o abrir un issue en este mismo repositorio, lo que te sea más cómodo!
 Construir imagen
 -------------------------------------------------------------------------------
 
+Desde dentro del directorio de examples `cd examples`
+
 `docker build -t criskrus/fake-api:1 -f Dockerfile-1 .`
 
 Arrancar la imagen
