@@ -1,4 +1,4 @@
-Docker Formation
+Docker 101 talk
 ===============================================================================
 
 Hola si estás aquí es porque estás interesado en la formación sobre Docker que
