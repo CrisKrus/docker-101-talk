@@ -12,7 +12,7 @@ para esta sesión.
 
 Si quieres ver las diapositivas online puedes entrar en [este enlace][diapositivas]
 
-[diapositivas]:https://criskrus.github.io/docker-formation/slides.html#/
+[diapositivas]:https://criskrus.github.io/docker-101-talk/slides.html
 
 Dudas
 -------------------------------------------------------------------------------
