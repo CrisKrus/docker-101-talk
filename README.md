@@ -22,9 +22,7 @@ sociales o abrir un issue en este mismo repositorio, lo que te sea más cómodo!
 
 - [Instagram 📷](http://bit.ly/cristian-suarez-instagram)
 - [Blog](http://bit.ly/cristian-suarez-blog)
-- [Twitch 📺](http://bit.ly/cristian-suarez-twitch)
-- [Youtube 🎥](http://bit.ly/cristian-suarez-youtube)
-- [Youtube directos 📺🎥](http://bit.ly/cristian-suarez-directos)
+- [Youtube 📺🎥](http://bit.ly/cristian-suarez-directos)
 
 Construir imagen
 -------------------------------------------------------------------------------
