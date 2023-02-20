@@ -40,7 +40,7 @@ Veces presentado
 -------------------------------------------------------------------------------
 
 - [2021-03-22 Cesar Manrique](https://github.com/CrisKrus/docker-101-talk/releases/tag/1)
-- [2023-02-16 Meetup: comunidad de desarrolladores en canarias](https://github.com/CrisKrus/docker-101-talk/releases/tag/2)
+- [2023-02-16 Meetup: comunidad de desarrolladores en canarias](https://github.com/CrisKrus/docker-101-talk/releases/tag/2023-02-16)
 
 
 <h2 align="center">Hi 👋, I'm Cristian Suarez Dev</h2>
