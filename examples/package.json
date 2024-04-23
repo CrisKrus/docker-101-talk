@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "4.17.1",
-    "mongoose": "5.8.5",
+    "mongoose": "5.13.20",
     "moment": "2.24.0",
     "helmet": "3.21.2"
   }
