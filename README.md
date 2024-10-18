@@ -8,7 +8,7 @@ ello, incluidos los ejemplos que he puesto en las diapositivas.
 Además de esto en [mi blog][blog] puedes consultar las notas que he redactado
 para esta sesión.
 
-[blog]:https://www.criskrus.com/tags/docker/
+[blog]:(https://www.cristiansuarez.dev/categories/docker/)
 
 Si quieres ver las diapositivas online puedes entrar en [este enlace][diapositivas]
 
@@ -21,7 +21,7 @@ Dudas
 sociales o abrir un issue en este mismo repositorio, lo que te sea más cómodo!
 
 - [Instagram 📷](http://bit.ly/cristian-suarez-instagram)
-- [Blog](http://bit.ly/cristian-suarez-blog)
+- [Blog](https://www.cristiansuarez.dev/)
 - [Youtube 📺🎥](http://bit.ly/cristian-suarez-directos)
 
 Construir imagen
